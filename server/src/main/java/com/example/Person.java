@@ -12,8 +12,8 @@ public class Person {
 
   }
 
-  /** 
-   * @param someone
+  /**
+   * @param someone the someone details
    * @return String
    */
   public final String person(final String someone) {
